@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<tal curprogram="0" version="1.1000000000000000888">
+  <programs>
+    <program path="/Users/jonathan/Library/Application Support/ToguAudioLine/TAL-U-No-LX/presets/Binary Oblivion/Juno-106-factory/A47 Funky I.pjunoxl"
+             programname="A14 Flutes" dcolfovalue="0.14900000393390655518"
+             dcopwmvalue="0" dcopwmmode="0.37900000810623168945" dcopulseenabled="0"
+             dcosawenabled="1" dcosuboscenabled="0" dcosuboscvolume="0" dconoisevolume="0"
+             hpfvalue="0.3310000300407409668" filtercutoff="0.34900000691413879395"
+             filterresonance="0.29700002074241638184" filterenvelopemode="1"
+             filterenvelopevalue="0.24400001764297485352" filtermodulationvalue="0.25500002503395080566"
+             filterkeyboardvalue="0.30100002884864807129" volume="1" masterfinetune="0.49600002169609069824"
+             octavetranspose="0.35500001907348632812" vcamode="1" adsrattack="0.38600000739097595215"
+             adsrdecay="0.63600003719329833984" adsrsustain="0.10000000149011611938"
+             adsrrelease="0.3160000145435333252" lforate="0.5879999995231628418"
+             lfodelaytime="0.60800004005432128906" lfotriggermode="1" lfowaveform="0"
+             lfoinverted="0" chorus1enable="0" chorus2enable="0" controlvelocityvolume="1"
+             controlvelocityenvelope="0" controlbenderfilter="0" controlbenderdco="0.19699999690055847168"
+             portamentointensity="0" portamentomode="0" portamentopoly="0"
+             arpenabled="0" arpsyncenabled="0" arpmode="0" arprange="0" arprate="0"
+             arpsyncmode="0" voicehold="0" miditriggerarp16sync="0" midiclocksync="0"
+             hostsync="0" maxpoly="0.45454546809196472168" keytranspose="0.5"
+             lfomanualtriggerenabled="0" arpspecialmode="0">
+      <tuningtable>
+        <entry tuning="0"/>
+        <entry tuning="1"/>
+        <entry tuning="2"/>
+        <entry tuning="3"/>
+        <entry tuning="4"/>
+        <entry tuning="5"/>
+        <entry tuning="6"/>
+        <entry tuning="7"/>
+        <entry tuning="8"/>
+        <entry tuning="9"/>
+        <entry tuning="10"/>
+        <entry tuning="11"/>
+        <entry tuning="12"/>
+        <entry tuning="13"/>
+        <entry tuning="14"/>
+        <entry tuning="15"/>
+        <entry tuning="16"/>
+        <entry tuning="17"/>
+        <entry tuning="18"/>
+        <entry tuning="19"/>
+        <entry tuning="20"/>
+        <entry tuning="21"/>
+        <entry tuning="22"/>
+        <entry tuning="23"/>
+        <entry tuning="24"/>
+        <entry tuning="25"/>
+        <entry tuning="26"/>
+        <entry tuning="27"/>
+        <entry tuning="28"/>
+        <entry tuning="29"/>
+        <entry tuning="30"/>
+        <entry tuning="31"/>
+        <entry tuning="32"/>
+        <entry tuning="33"/>
+        <entry tuning="34"/>
+        <entry tuning="35"/>
+        <entry tuning="36"/>
+        <entry tuning="37"/>
+        <entry tuning="38"/>
+        <entry tuning="39"/>
+        <entry tuning="40"/>
+        <entry tuning="41"/>
+        <entry tuning="42"/>
+        <entry tuning="43"/>
+        <entry tuning="44"/>
+        <entry tuning="45"/>
+        <entry tuning="46"/>
+        <entry tuning="47"/>
+        <entry tuning="48"/>
+        <entry tuning="49"/>
+        <entry tuning="50"/>
+        <entry tuning="51"/>
+        <entry tuning="52"/>
+        <entry tuning="53"/>
+        <entry tuning="54"/>
+        <entry tuning="55"/>
+        <entry tuning="56"/>
+        <entry tuning="57"/>
+        <entry tuning="58"/>
+        <entry tuning="59"/>
+        <entry tuning="60"/>
+        <entry tuning="61"/>
+        <entry tuning="62"/>
+        <entry tuning="63"/>
+        <entry tuning="64"/>
+        <entry tuning="65"/>
+        <entry tuning="66"/>
+        <entry tuning="67"/>
+        <entry tuning="68"/>
+        <entry tuning="69"/>
+        <entry tuning="70"/>
+        <entry tuning="71"/>
+        <entry tuning="72"/>
+        <entry tuning="73"/>
+        <entry tuning="74"/>
+        <entry tuning="75"/>
+        <entry tuning="76"/>
+        <entry tuning="77"/>
+        <entry tuning="78"/>
+        <entry tuning="79"/>
+        <entry tuning="80"/>
+        <entry tuning="81"/>
+        <entry tuning="82"/>
+        <entry tuning="83"/>
+        <entry tuning="84"/>
+        <entry tuning="85"/>
+        <entry tuning="86"/>
+        <entry tuning="87"/>
+        <entry tuning="88"/>
+        <entry tuning="89"/>
+        <entry tuning="90"/>
+        <entry tuning="91"/>
+        <entry tuning="92"/>
+        <entry tuning="93"/>
+        <entry tuning="94"/>
+        <entry tuning="95"/>
+        <entry tuning="96"/>
+        <entry tuning="97"/>
+        <entry tuning="98"/>
+        <entry tuning="99"/>
+        <entry tuning="100"/>
+        <entry tuning="101"/>
+        <entry tuning="102"/>
+        <entry tuning="103"/>
+        <entry tuning="104"/>
+        <entry tuning="105"/>
+        <entry tuning="106"/>
+        <entry tuning="107"/>
+        <entry tuning="108"/>
+        <entry tuning="109"/>
+        <entry tuning="110"/>
+        <entry tuning="111"/>
+        <entry tuning="112"/>
+        <entry tuning="113"/>
+        <entry tuning="114"/>
+        <entry tuning="115"/>
+        <entry tuning="116"/>
+        <entry tuning="117"/>
+        <entry tuning="118"/>
+        <entry tuning="119"/>
+        <entry tuning="120"/>
+        <entry tuning="121"/>
+        <entry tuning="122"/>
+        <entry tuning="123"/>
+        <entry tuning="124"/>
+        <entry tuning="125"/>
+        <entry tuning="126"/>
+        <entry tuning="127"/>
+      </tuningtable>
+      <voicetunings>
+        <voicetuning cutoff="0.5" detune="0.5" attack="0.5" decay="0.5" release="0.5"/>
+        <voicetuning cutoff="0.5" detune="0.5" attack="0.5" decay="0.5" release="0.5"/>
+        <voicetuning cutoff="0.5" detune="0.5" attack="0.5" decay="0.5" release="0.5"/>
+        <voicetuning cutoff="0.5" detune="0.5" attack="0.5" decay="0.5" release="0.5"/>
+        <voicetuning cutoff="0.5" detune="0.5" attack="0.5" decay="0.5" release="0.5"/>
+        <voicetuning cutoff="0.5" detune="0.5" attack="0.5" decay="0.5" release="0.5"/>
+      </voicetunings>
+    </program>
+  </programs>
+  <midimap>
+    <map param="28" controllernumber="1"/>
+    <map param="24" controllernumber="19"/>
+    <map param="10" controllernumber="20"/>
+    <map param="20" controllernumber="38"/>
+    <map param="21" controllernumber="39"/>
+    <map param="22" controllernumber="40"/>
+    <map param="23" controllernumber="41"/>
+    <map param="11" controllernumber="42"/>
+    <map param="13" controllernumber="43"/>
+    <map param="10" controllernumber="47"/>
+    <map param="11" controllernumber="48"/>
+    <map param="9" controllernumber="59"/>
+    <map param="16" controllernumber="71"/>
+    <map param="10" controllernumber="74"/>
+  </midimap>
+</tal>
