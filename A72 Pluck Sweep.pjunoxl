@@ -2,12 +2,12 @@
 
 <tal curprogram="0" version="1.1000000000000000888">
   <programs>
-    <program path="/Users/jonathan/Library/Application Support/ToguAudioLine/TAL-U-No-LX/presets/Binary Oblivion/Juno-106-factory/A72 Pluck Sweep.pjunoxl"
+    <program path="/Users/waltercruz/Library/Application Support/ToguAudioLine/TAL-U-No-LX/presets/Juno-106-Factory-Bank-A/A72 Pluck Sweep.pjunoxl"
              programname="A72 Pluck Sweep" dcolfovalue="0" dcopwmvalue="0.83000004291534423828"
              dcopwmmode="1" dcopulseenabled="1" dcosawenabled="1" dcosuboscenabled="1"
-             dcosuboscvolume="0.50499999523162841797" dconoisevolume="0" hpfvalue="0.29900002479553222656"
+             dcosuboscvolume="1" dconoisevolume="0" hpfvalue="0.63921570777893066406"
              filtercutoff="0.41000002622604370117" filterresonance="0.86500006914138793945"
-             filterenvelopemode="1" filterenvelopevalue="0.20800000429153442383"
+             filterenvelopemode="1" filterenvelopevalue="0.070866145193576812744"
              filtermodulationvalue="0" filterkeyboardvalue="0.65100002288818359375"
              volume="0.45100003480911254883" masterfinetune="0.5" octavetranspose="0.45700001716613769531"
              vcamode="1" adsrattack="0.12900000810623168945" adsrdecay="0.75400000810623168945"

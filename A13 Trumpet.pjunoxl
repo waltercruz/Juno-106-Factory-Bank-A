@@ -2,16 +2,16 @@
 
 <tal curprogram="0" version="1.1000000000000000888">
   <programs>
-    <program path="/Users/jonathan/Library/Application Support/ToguAudioLine/TAL-U-No-LX/presets/Binary Oblivion/Juno-106-factory/A13 Trumpet.pjunoxl"
+    <program path="/Users/waltercruz/Library/Application Support/ToguAudioLine/TAL-U-No-LX/presets/Juno-106-Factory-Bank-A/A13 Trumpet.pjunoxl"
              programname="A13 Trumpet" dcolfovalue="0" dcopwmvalue="0" dcopwmmode="1"
              dcopulseenabled="0" dcosawenabled="1" dcosuboscenabled="0" dcosuboscvolume="0"
              dconoisevolume="0" hpfvalue="0" filtercutoff="0.23100000619888305664"
              filterresonance="0.29800000786781311035" filterenvelopemode="1"
              filterenvelopevalue="0.44700002670288085938" filtermodulationvalue="0"
-             filterkeyboardvalue="0.4860000312328338623" volume="0.87200003862380981445"
+             filterkeyboardvalue="0.4860000312328338623" volume="0.60300004482269287109"
              masterfinetune="0.5" octavetranspose="0.45700001716613769531"
              vcamode="1" adsrattack="0.29700002074241638184" adsrdecay="0.55700004100799560547"
-             adsrsustain="0.80700004100799560547" adsrrelease="0.19700001180171966553"
+             adsrsustain="0.61960786581039428711" adsrrelease="0.29411764705882354"
              lforate="0.4270000159740447998" lfodelaytime="0.33600002527236938477"
              lfotriggermode="0.63000005483627319336" lfowaveform="0" lfoinverted="0"
              chorus1enable="0" chorus2enable="0" controlvelocityvolume="0"

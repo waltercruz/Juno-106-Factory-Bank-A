@@ -2,15 +2,15 @@
 
 <tal curprogram="0" version="1.1000000000000000888">
   <programs>
-    <program path="/Users/jonathan/Library/Application Support/ToguAudioLine/TAL-U-No-LX/presets/Binary Oblivion/Juno-106-factory/A28 Elect. Piano II.pjunoxl"
+    <program path="/Users/waltercruz/Library/Application Support/ToguAudioLine/TAL-U-No-LX/presets/Juno-106-Factory-Bank-A/A28 Elect. Piano II.pjunoxl"
              programname="A28 Elect. Piano II" dcolfovalue="0" dcopwmvalue="0.71900004148483276367"
              dcopwmmode="0.37200000882148742676" dcopulseenabled="1" dcosawenabled="0"
              dcosuboscenabled="0" dcosuboscvolume="0" dconoisevolume="0" hpfvalue="0.12000000476837158203"
-             filtercutoff="0.37300002574920654297" filterresonance="0.55700004100799560547"
+             filtercutoff="0.30500000715255737305" filterresonance="0.48235294222831726074"
              filterenvelopemode="1" filterenvelopevalue="0.18600000441074371338"
-             filtermodulationvalue="0" filterkeyboardvalue="0.54300004243850708008"
-             volume="0.65600001811981201172" masterfinetune="0.5" octavetranspose="0.47000002861022949219"
-             vcamode="1" adsrattack="0" adsrdecay="0.69500005245208740234"
+             filtermodulationvalue="0" filterkeyboardvalue="0.59842520952224731445"
+             volume="0.65600001811981201172" masterfinetune="0.5" octavetranspose="0"
+             vcamode="1" adsrattack="0" adsrdecay="0.68700003623962402344"
              adsrsustain="0" adsrrelease="0.19400000572204589844" lforate="0"
              lfodelaytime="0" lfotriggermode="0.63000005483627319336" lfowaveform="0"
              lfoinverted="0" chorus1enable="1" chorus2enable="0" controlvelocityvolume="0"

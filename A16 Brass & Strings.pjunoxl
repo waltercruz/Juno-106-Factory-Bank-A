@@ -2,14 +2,14 @@
 
 <tal curprogram="0" version="1.1000000000000000888">
   <programs>
-    <program path="/Users/jonathan/Library/Application Support/ToguAudioLine/TAL-U-No-LX/presets/Binary Oblivion/Juno-106-factory/A13 Trumpet.pjunoxl"
+    <program path="/Users/waltercruz/Library/Application Support/ToguAudioLine/TAL-U-No-LX/presets/Juno-106-Factory-Bank-A/A16 Brass &amp; Strings.pjunoxl"
              programname="A16 Brass &amp; Strings" dcolfovalue="0" dcopwmvalue="0.48000001907348632812"
              dcopwmmode="1" dcopulseenabled="1" dcosawenabled="0" dcosuboscenabled="1"
              dcosuboscvolume="0.41500002145767211914" dconoisevolume="0" hpfvalue="0"
              filtercutoff="0.56100004911422729492" filterresonance="0.14100000262260437012"
              filterenvelopemode="1" filterenvelopevalue="0.10000000149011611938"
              filtermodulationvalue="0.088000006973743438721" filterkeyboardvalue="0.38200002908706665039"
-             volume="0.54800003767013549805" masterfinetune="0.5" octavetranspose="0.27800002694129943848"
+             volume="0.54800003767013549805" masterfinetune="0.5" octavetranspose="0"
              vcamode="1" adsrattack="0.5890000462532043457" adsrdecay="0.66800004243850708008"
              adsrsustain="0.41000002622604370117" adsrrelease="0.4860000312328338623"
              lforate="0.47000002861022949219" lfodelaytime="0" lfotriggermode="0.63000005483627319336"

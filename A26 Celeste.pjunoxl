@@ -2,24 +2,23 @@
 
 <tal curprogram="0" version="1.1000000000000000888">
   <programs>
-    <program path="/Users/jonathan/Library/Application Support/ToguAudioLine/TAL-U-No-LX/presets/Binary Oblivion/Juno-106-factory/A25 Donald Pluck.pjunoxl"
+    <program path="/Users/waltercruz/Library/Application Support/ToguAudioLine/TAL-U-No-LX/presets/Juno-106-Factory-Bank-A/A26 Celeste.pjunoxl"
              programname="A26 Celeste" dcolfovalue="0" dcopwmvalue="0.047000002115964889526"
              dcopwmmode="0.37200000882148742676" dcopulseenabled="1" dcosawenabled="0"
-             dcosuboscenabled="1" dcosuboscvolume="0.24700000882148742676"
+             dcosuboscenabled="1" dcosuboscvolume="0.13333334028720855713"
              dconoisevolume="0" hpfvalue="0" filtercutoff="0.30300000309944152832"
-             filterresonance="0.3610000312328338623" filterenvelopemode="1"
+             filterresonance="0.16470588743686676025" filterenvelopemode="1"
              filterenvelopevalue="0.36500000953674316406" filtermodulationvalue="0"
-             filterkeyboardvalue="0.41900002956390380859" volume="0.72600001096725463867"
-             masterfinetune="0.5" octavetranspose="0.59500002861022949219"
-             vcamode="1" adsrattack="0" adsrdecay="0.56300002336502075195"
-             adsrsustain="0" adsrrelease="0.61000001430511474609" lforate="0.2280000150203704834"
-             lfodelaytime="0" lfotriggermode="0.63000005483627319336" lfowaveform="0"
-             lfoinverted="0" chorus1enable="0" chorus2enable="0" controlvelocityvolume="0"
-             controlvelocityenvelope="0" controlbenderfilter="0" controlbenderdco="0"
-             portamentointensity="0.38100001215934753418" portamentomode="0"
-             portamentopoly="0" arpenabled="0" arpsyncenabled="0" arpmode="0"
-             arprange="0" arprate="0" arpsyncmode="0" voicehold="0" miditriggerarp16sync="0"
-             midiclocksync="0" hostsync="0" maxpoly="0.45454546809196472168"
+             filterkeyboardvalue="0.41900002956390380859" volume="0.53200000524520874023"
+             masterfinetune="0.5" octavetranspose="1" vcamode="1" adsrattack="0"
+             adsrdecay="0.56300002336502075195" adsrsustain="0" adsrrelease="0.61000001430511474609"
+             lforate="0.2280000150203704834" lfodelaytime="0" lfotriggermode="0.63000005483627319336"
+             lfowaveform="0" lfoinverted="0" chorus1enable="0" chorus2enable="0"
+             controlvelocityvolume="0" controlvelocityenvelope="0" controlbenderfilter="0"
+             controlbenderdco="0" portamentointensity="0.38100001215934753418"
+             portamentomode="0" portamentopoly="0" arpenabled="0" arpsyncenabled="0"
+             arpmode="0" arprange="0" arprate="0" arpsyncmode="0" voicehold="0"
+             miditriggerarp16sync="0" midiclocksync="0" hostsync="0" maxpoly="0.45454546809196472168"
              keytranspose="0.5" lfomanualtriggerenabled="0" arpspecialmode="0">
       <tuningtable>
         <entry tuning="0"/>

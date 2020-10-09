@@ -2,16 +2,16 @@
 
 <tal curprogram="0" version="1.1000000000000000888">
   <programs>
-    <program path="/Users/jonathan/Library/Application Support/ToguAudioLine/TAL-U-No-LX/presets/Binary Oblivion/Juno-106-factory/A62 Clav..pjunoxl"
+    <program path="/Users/waltercruz/Library/Application Support/ToguAudioLine/TAL-U-No-LX/presets/Juno-106-Factory-Bank-A/A62 Clav..pjunoxl"
              programname="A62 Clav." dcolfovalue="0" dcopwmvalue="0.92500007152557373047"
              dcopwmmode="0.34000000357627868652" dcopulseenabled="1" dcosawenabled="0"
              dcosuboscenabled="0" dcosuboscvolume="0.48500001430511474609"
-             dconoisevolume="0" hpfvalue="0" filtercutoff="0" filterresonance="0.18300001323223114014"
-             filterenvelopemode="1" filterenvelopevalue="0.77000004053115844727"
+             dconoisevolume="0" hpfvalue="0" filtercutoff="0.21176470588235294" filterresonance="0"
+             filterenvelopemode="1" filterenvelopevalue="0.6220472440944882"
              filtermodulationvalue="0" filterkeyboardvalue="0" volume="0.71500003337860107422"
              masterfinetune="0.5" octavetranspose="0.073000006377696990967"
-             vcamode="1" adsrattack="0" adsrdecay="0.50700002908706665039"
-             adsrsustain="0.37700000405311584473" adsrrelease="0" lforate="0.51000005006790161133"
+             vcamode="1" adsrattack="0" adsrdecay="0.62200003862380981445"
+             adsrsustain="0.52300000190734863281" adsrrelease="0" lforate="0.51000005006790161133"
              lfodelaytime="0" lfotriggermode="0.70000004768371582031" lfowaveform="0"
              lfoinverted="0" chorus1enable="1" chorus2enable="0" controlvelocityvolume="0"
              controlvelocityenvelope="0" controlbenderfilter="0" controlbenderdco="0.2020000070333480835"
